@@ -1,2 +1,2 @@
 # testrepo
-creating test repo for demo use
+used in jan 26 spring semest4r
